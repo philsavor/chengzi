@@ -1,4 +1,4 @@
-package com.sample;
+package com.chengzi.backend.api;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
